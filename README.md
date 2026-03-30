@@ -38,8 +38,8 @@ Enables:
 ### Fresh install
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>/metrics-server
+git clone https://github.com/Virendra-Nawkar/metric-server
+cd metrics-server
 
 # Give permission and run
 chmod +x install.sh
